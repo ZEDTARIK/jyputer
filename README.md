@@ -1,6 +1,5 @@
-# use jyputer Python and Sql
-#  Project : The GitHub History of the Scala Language
-
+#  Project : 
+	1 - The GitHub History of the Scala Language
 
 
 #   Learn Python 
@@ -11,6 +10,6 @@
     4- How to sort a dictionary by values in Python
 
 
-# Mr.Zouhair ETTARAK
+<center> ##Mr.Zouhair ETTARAK</center>
 
 
