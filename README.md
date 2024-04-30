@@ -10,6 +10,4 @@
     4- How to sort a dictionary by values in Python
 
 
-<center> ##Mr.Zouhair ETTARAK</center>
-
-
+To be Continued
