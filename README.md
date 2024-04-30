@@ -11,5 +11,8 @@
 	5- How to ask the user for input until they give a valid response in Python
 	6- List Comprehension in Python
 	
+	
+#  Learn about Pandas 
+	1- Learn about Pandas groupby operations
 
 To be Continued
