@@ -10,6 +10,7 @@
     4- How to sort a dictionary by values in Python
 	5- How to ask the user for input until they give a valid response in Python
 	6- List Comprehension in Python
+	7- timeit in jupyter cel 
 	
 
 #  Learn OOP	
