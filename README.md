@@ -1,6 +1,7 @@
 #  Project : 
 	1 - The GitHub History of the Scala Language
-
+	2 - Investigating Netflix Movies
+	
 
 #   Learn Python 
 
